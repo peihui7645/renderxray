@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# 传哪吒三个参数
+# 传哪吒三个参数，加上几个字
 NEZHA_SERVER=$1
 NEZHA_PORT=$2
 NEZHA_KEY=$3
