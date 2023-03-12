@@ -29,7 +29,7 @@
                       "dest":3003
                   },
                   {
-                      "path":"/trojan",
+                      "path":"/ptrojan",
                       "dest":3004
                   },
                   {
